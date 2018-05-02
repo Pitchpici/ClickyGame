@@ -1,0 +1,19 @@
+.cats {
+	height: 650px;
+}
+.container {
+	width: 75%;
+	margin: auto;
+	border: 2px solid black;
+	display: flex;
+	height: 600px;
+}
+
+.imgbox{
+	background-color: red;
+	border: 5px solid #f1f1f1;
+	height: 170px;
+	width: 170px;
+	margin: 5px 10px;
+	border-radius: 3px;
+}

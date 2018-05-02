@@ -1,0 +1,9 @@
+.jumbo {
+	background-image: url("./images/gray.jpg");
+	background-repeat: repeat;
+	height: 300px;
+	color: white;
+	position: relative;
+	text-align: center;
+
+}
