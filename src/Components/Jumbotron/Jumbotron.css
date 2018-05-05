@@ -1,7 +1,7 @@
 .jumbo {
-	background-image: url("./images/gray.jpg");
+	background-image: url("../../images/gray.jpg");
 	background-repeat: repeat;
-	height: 300px;
+	height: 200px;
 	color: white;
 	position: relative;
 	text-align: center;

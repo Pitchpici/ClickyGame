@@ -4,6 +4,7 @@ footer {
 	display: flex;
 }
 
-img {
+.react {
 	height: 50px;
+	width: 75px;
 }

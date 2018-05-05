@@ -10,8 +10,7 @@ class Navbar extends Component {
 				<h2 style={{color: "yellow"}}> Click an image to begin! </h2>
 
 				<div style={{marginRight: "20px"}}>
-					<h2>Your Score: 0</h2>
-					<h2>Top Score:  0</h2>
+					<h2>Your Score: {this.props.score} </h2>
 				</div>
 			</nav>
 		);
